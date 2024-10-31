@@ -14,8 +14,7 @@ Este exercício consistia em montar e programar um semáforo que garanta a segur
 # Parte 1 - Montagem Física do Semáforo
 Nesta etapa, vou deixar uma imagem abaixo representando a construção física do projeto do farol
 
-![Projeto]
-<img src='FotoProjeto.jpg'>
+
 
 
 [Video do meu projeto](https://www.youtube.com/watch?v=63ueeswngPM)
