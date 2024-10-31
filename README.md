@@ -15,7 +15,7 @@ Este exercício consistia em montar e programar um semáforo que garanta a segur
 Nesta etapa, vou deixar uma imagem abaixo representando a construção física do projeto do farol
 
 ![Projeto]
-<img src='FotoPojeto.jpg'>
+<img src='FotoProjeto.jpg'>
 
 Eu utilizei a seguinte lógica na construção:
 - Led Verde: 
