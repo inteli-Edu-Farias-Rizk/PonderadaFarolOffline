@@ -17,6 +17,10 @@ Nesta etapa, vou deixar uma imagem abaixo representando a construção física d
 ![Projeto]
 <img src='FotoProjeto.jpg'>
 
+
+[Video do meu projeto](https://www.youtube.com/watch?v=63ueeswngPM)
+
+
 Eu utilizei a seguinte lógica na construção:
 - Led Verde: 
 - Led Amarelo:
@@ -47,6 +51,28 @@ Nesta etapa eu realizei o código para o projeto. O código fonte está no repos
 - 6 segundos no vermelho
 - 2 segundos no amarelo
 - 2 segundos no verde
-- 2 segundos de pausa para separação de tempo do led verde
-- +2 segundos no verde (simulando um tempo adicional para pedestres terminarem a travessia)
 - 2 segundos no amarelo
+
+# Parte 3: Avaliação de Pares 
+
+### Tabela de Avaliação entre Pares
+
+#### Avaliador: Eduardo Rizk
+
+|Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
+|-|-|-|-|-|
+|Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores	|Até 3	|Até 1,5	|0 | 3 |	
+|Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo	|Até 3	|Até 1,5	|0 |3 |	
+|Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) |	Até 3|	Até 1,5 |	0 | 3|	
+|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código |	Até 1 |	Até 0,5 |	0 | 0|	
+
+### Tabela de Avaliação entre Pares
+
+#### Avaliador: André Dleizer
+
+|Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
+|-|-|-|-|-|
+|Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores	|Até 3	|Até 1,5	|0 | 3 |	
+|Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo	|Até 3	|Até 1,5	|0 | 3 |	
+|Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) |	Até 3|	Até 1,5 |	0 |3|	
+|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código |	Até 1 |	Até 0,5 |	0 | 0 |	
